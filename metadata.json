@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix:  AI Book Summary Pro",
+  "description": "Premium AI web app for cinematic book summaries, podcast scripts, and AI-powered chat with a modular library-inspired interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
